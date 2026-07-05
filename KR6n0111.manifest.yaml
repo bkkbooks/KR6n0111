@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0111_000.yaml, hash: 'sha256:cd7efdb6e15ca2369c8ad96bbc00c75ccc7352f4aeede56369186b9d7f9570b3'}
-  - {seq: 1, filename: KR6n0111_001.yaml, hash: 'sha256:5654fadec9f69ea3dfec515a51eb12bfdb4f586158fa37770fd91ab7954c7a64'}
+  - {seq: 1, filename: KR6n0111_001.yaml, hash: 'sha256:4d6addd25fa7446a5135aac9116fe657463ad2c9a12a01f6ef51b74afe8327a2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0111_001.markers.yaml, hash: 'sha256:c715747cb91ffb89f4662cacedddfd6bf6d8ba195d899a5c6159586673cff361'}
+  - {seq: 0, role: markers, filename: assets/KR6n0111_000.markers.yaml, hash: 'sha256:73a8a16d46a1b06dfc949ab192e130e35ec8b33ce5ec2ef2eb00dcdc6aca5dab'}
+  - {seq: 1, role: markers, filename: assets/KR6n0111_001.markers.yaml, hash: 'sha256:7ee25904fdc4b80f82c1382105ab6e0584dbd97db8f8a781480f7652e6dda3b3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 無相思塵論
   type: juan
   level: 1
-hash: sha256:6094cce426625da2c0c52760dd58e7ab75ccf22f320fa6f8ee88110a4a81044d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:eb98e1b84d825efa641e367fc086d97c91e45fdc1a28b0311f5c663e5e17d875
